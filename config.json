@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authsender",
+        "uuid": 430040,
+        "checksum": "4uouur"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
